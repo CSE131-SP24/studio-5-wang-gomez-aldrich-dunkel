@@ -77,7 +77,7 @@ public class Methods {
 		{
 			if(text[i]!=target)
 			{
-			result = result + text[i];
+			result += text[i];
 			}
 			if(text[i]==target)
 			{
